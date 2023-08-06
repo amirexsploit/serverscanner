@@ -32,4 +32,4 @@ const configFile = 'list.json';
 
 
 ## Screenshots
-![Screenshots 1](https://github.com/sonofescobar1337/server-scanner/blob/main/skringsut/scrennshots-1.jpg?raw=true)
+![Screenshots 1](https://github.com/amirexsploit/serverscanner/blob/main/scrinshoot/scrennshots-1.jpg)
